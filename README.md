@@ -4,6 +4,7 @@ This repository is for showing how Git and GitHub work
 YES
 
 ## Purpose
+Testing
 
 Sample website with plenty of files for demos
 this how to use git
@@ -11,3 +12,4 @@ this how to use git
 
 ## Deployment
 same again
+local work
