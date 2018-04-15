@@ -13,3 +13,5 @@ this how to use git
 ## Deployment
 same again
 local work
+
+2014 Git Training
