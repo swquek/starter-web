@@ -14,4 +14,4 @@ this how to use git
 same again
 local work
 
-2014 Git Training
+2014 Git Trainings
